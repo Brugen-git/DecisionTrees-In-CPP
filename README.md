@@ -4,7 +4,24 @@
 Education data modelling employs classification algorithms and the decision tree classification learning process simplifies the process of classifying data. The purpose is to imply decision trees algorithm for prediction and evaluation of scores of individual students for each academic term. The model's goal is to offer a method that spares both the institutes and the students' time and effort.
 
 # Project Scope
-This project involves Educational Data Mining (EDM) which is used by educational institutions to provide better service to their students. This also allows the academic institutions to use stored data to improve teaching and learning processes. The goal is to evaluate students’ performance and identify at-risk students and identify priority learning needs for different groups of students to create interventions and improve their performance.4
+This project involves Educational Data Mining (EDM) which is used by educational institutions to provide better service to their students. This also allows the academic institutions to use stored data to improve teaching and learning processes. The goal is to evaluate students’ performance and identify at-risk students and identify priority learning needs for different groups of students to create interventions and improve their performance.
+
+# To run the project 
+1. Clone the repository to your local machine.
+2. Navigate to the directory of the project.
+3. Compile the project using make command, or the command given below.
+
+''' 
+g++ main.cpp  -o main.exe
+'''
+4. Enter the decisions as required.
+
+# Outputs
+![image](https://user-images.githubusercontent.com/74241208/209871472-c8704d1e-051a-4fcf-9db3-6071e2a62d29.png)
+![image](https://user-images.githubusercontent.com/74241208/209871506-b41fcd63-b6ee-435a-9cef-1b46a66bfd70.png)
+![image](https://user-images.githubusercontent.com/74241208/209871545-c23abe60-ac17-491b-81da-fd33122e4196.png)
+
+
 
 # Project Features
 The main feature of the model is that it predicts the grades of individual students based on the available data.  
